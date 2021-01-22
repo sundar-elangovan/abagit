@@ -8,4 +8,4 @@ REPORT ZGITHELLO.
 
 START-OF-SELECTION.
 
-WRITE 'HelloWorld'.
+WRITE 'HelloWorld - changed from git'.
