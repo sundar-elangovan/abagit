@@ -1,4 +1,4 @@
-  
+
 *&---------------------------------------------------------------------*
 *& Report ZGITHELLO
 *&---------------------------------------------------------------------*
@@ -8,4 +8,4 @@ REPORT ZGITHELLO.
 
 START-OF-SELECTION.
 
-WRITE 'abapGit HelloWorld'.
+WRITE 'HelloWorld'.
